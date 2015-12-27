@@ -7,7 +7,7 @@ public class testone {
 	
 	@Test
 	public void logintest(){
-		System.out.println("Login test one");
+		System.out.println("Login test one new");
 	}
 	
 	
